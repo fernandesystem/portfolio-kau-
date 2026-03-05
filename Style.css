@@ -5,12 +5,12 @@
 
 body {
     height: 100vh;
-    background: rgb(123, 179, 26);
+    background: rgb(205, 64, 241);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: 0;
-    color: rgb(232, 107, 107);
+    color: rgba(92, 8, 247, 0.781);
 }
 
 .cabecalho {
@@ -26,6 +26,27 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
     font-weight: 600;
-    color: rgb(201, 182, 57);
-    text-decoration: underline;
+    color: rgb(22, 29, 230);
+    text-decoration: none;
+}
+
+.conteudo {
+    height: auto;
+    flex-direction: column;
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.apresentacao-conteudo {
+    width: 615px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    gap: 40px;
+    order:2;
 }
