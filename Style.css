@@ -5,12 +5,12 @@
 
 body {
     height: 100vh;
-    background: rgb(209, 101, 236);
+    background: rgb(65, 13, 97);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: 0;
-    color: rgba(111, 62, 121);
+    color: rgb(252, 252, 252);
 }
 
 .cabecalho {
@@ -26,7 +26,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
     font-weight: 600;
-    color: rgb(111, 62, 121);
+    color: rgb(183, 49, 210);
     text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ body {
     text-align: justify;
 }
 .botao1{
-    background-color: rgb(130, 76, 180);
+    background-color: rgb(115, 25, 139);
     color: rgb(255, 94, 0);
     width: 500px;
     height: 100px;
@@ -108,7 +108,7 @@ body {
 /* INICIO BOTAO2 */
 
 .botao2 {
-    background-color: rgb(130, 76, 180);
+    background-color: rgb(115, 25, 139);
     color: rgb(114, 93, 247);
     width: 500px;
     height: 100px;
@@ -155,7 +155,7 @@ body {
 /* INICIO BOTAO3 */
 
 .botao3 {
-    background-color: rgb(130, 76, 180);
+    background-color: rgb(115, 25, 139);
     color: rgb(207, 199, 187);
     width: 500px;
     height: 100px;
@@ -202,7 +202,7 @@ body {
 /* INICIO BOTAO4 */
 
 .botao4 {
-    background-color: rgb(130, 76, 180);
+    background-color: rgb(115, 25, 139);
     color: rgb(83, 243, 128);
     width: 500px;
     height: 100px;
@@ -249,7 +249,7 @@ body {
 /* INICIO BOTAO5 */
 
 .botao5 {
-    background-color: rgb(130, 76, 180);
+    background-color: rgb(115, 25, 139);
     color: rgb(237, 74, 150);
     width: 500px;
     height: 100px;
